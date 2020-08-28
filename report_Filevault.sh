@@ -4,7 +4,7 @@
 # 28th of August 2020
 # travellingtechguy.blog
 
-# This script will grab all useful information on a macOS system to troubleshoot FileVault
+# This script will grab all useful information on a macOS system to throubleshoot FileVault
 
 # Output will be written to a .txt file on the Desktop of the logged-in user
 
