@@ -128,5 +128,6 @@ echo >> $reportFile
 echo >> $reportFile
 echo "#############################################" >> $reportFile
 echo "Report script provided by Travelling Tech Guy" >> $reportFile
+echo "Blog: https://travellingtechguy.blog" >> $reportFile
 echo "GitHub: https://github.com/TravellingTechGuy/reportFileVault" >> $reportFile
 echo "#############################################" >> $reportFile
