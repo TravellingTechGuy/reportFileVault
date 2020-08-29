@@ -35,10 +35,10 @@ echo $serial
 computerName=$(scutil --get ComputerName)
 echo $computerName
 
-osVer=${1-$(sw_vers -productVersion)}
+osVer=$(sw_vers -productVersion)
 echo $osVer
 
-build=${1-$(sw_vers -buildVersion)}
+build=$(sw_vers -buildVersion)
 echo $build
 
 fdeSetupStatus=`/usr/bin/fdesetup status`
