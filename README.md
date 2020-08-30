@@ -31,7 +31,7 @@ Logged In User:	frederick.abeloos
 
 Is mobile account:	NO
 
-Is admin account:	YES
+Is admin account:	YES 
 
 ---------------
 Mobile Accounts
