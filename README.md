@@ -5,7 +5,7 @@ This can be executed locally with 'sudo' or via a Jamf Pro Policy.
 
 The script will put a timestamped .txt file on the logged-in user's Desktop
 
-Latest version: V2.1
+Latest version: V2.2
 
 ################
 FileVault Report
