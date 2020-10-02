@@ -94,9 +94,9 @@ echo " Creating timestamped report file on Desktop"
 echo " --> deleting previous file with same timestamp"
 
 ##### PRINT INFO TO FILE #####
-echo "################" >> $reportFile
-echo "FileVault Report" >> $reportFile
-echo "################" >> $reportFile
+echo "#####################" >> $reportFile
+echo "FileVault Report v2.2" >> $reportFile
+echo "#####################" >> $reportFile
 echo >> $reportFile
 
 echo "########################################################" >> $reportFile
