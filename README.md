@@ -1,4 +1,9 @@
 # reportFileVault
+
+IMPORTANT NOTE: Running this script with 'sudo' on a macOS Catalina system with NO SecureToken user yet, will result in granting the admin account used to authenticate with 'sudo' a SecureToken. So make sure you are aware of the current SecureToken situation before running the script with admin privileges. This to be able to compare the situation before and after running the full report.
+
+
+
 Script to grab all FileVault information for troubleshooting
 
 This can be executed locally with 'sudo' or via a Jamf Pro Policy.
