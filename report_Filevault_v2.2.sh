@@ -9,6 +9,12 @@
 # Output will be written to a .txt file on the Desktop of the logged-in user
 
 ###### WARNING #####
+#IMPORTANT NOTE: Running this script with 'sudo' on a macOS Catalina system with NO SecureToken user yet,
+#will result in granting the admin account used to authenticate with 'sudo' a SecureToken.
+#So make sure you are aware of the current SecureToken situation before running the script with admin privileges.
+#This to be able to compare the situation before and after running the full report.
+
+###### WARNING #####
 # THIS SCRIPT WILL DISCLOSE CONFIDENTIAL INFORMATION LIKE:
 # Usernames
 # FileVault Recovery Keys
